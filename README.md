@@ -22,4 +22,4 @@ Commit Coach upgrades rough commit messages into structured, review-ready commit
 - No VCS integration.
 
 Build on Sundai Club on March 15, 2026  
-Sundai Project: TO_BE_FILLED
+Sundai Project: https://www.sundai.club/projects/bd3154c3-c538-4343-9a40-c69a58d00d94
